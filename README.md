@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/pkaloliya" target="blank"><img src="https://img.shields.io/twitter/follow/pkaloliya?logo=twitter&style=for-the-badge" alt="pkaloliya" /></a> </p>
 
-- 🔭 I’m currently working on **Core Blockchain Projects**
+- 🔭 I’m currently working on **Web3 Project**
 
-- 🌱 I’m currently learning **Rust, Solana**
+- 🌱 I’m currently learning **GraphQl, TypeScript**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Backend Node.js**
 
-- 📫 How to reach me **kaloliya@gmail.com**
+- 📫 How to reach me **mdasifj625@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/parthkaloliya/](https://www.linkedin.com/in/parthkaloliya/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mdasifj625/](https://www.linkedin.com/in/mdasifj625/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
