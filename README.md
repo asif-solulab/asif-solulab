@@ -12,7 +12,7 @@
 <h2 align="center">🏆</h2>
 <p align="center">
 	<img
-		src="https://github-profile-trophy.vercel.app/?username=mdasifj625&theme=nord&margin-w=10&no-bg=false"
+		src="https://github-profile-trophy.vercel.app/?username=mdasifj625&theme=nord&margin-w=10"
 		alt="mdasifj625"
 	/>
 </p>
