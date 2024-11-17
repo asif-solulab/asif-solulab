@@ -5,14 +5,6 @@
 	<img src="https://komarev.com/ghpvc/?username=mdasifj625&color=blue&style=flat-square&label=Profile+Views" alt="profile-views" />
 </p>
 
----
-
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=mdasifj625&theme=nord&margin-w=15" alt="trophy" />
-</p>
-
----
-
 ### 👨‍💻 About Me:
 
 - 🔭 Currently working on **Web3 Projects**
