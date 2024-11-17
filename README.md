@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm MD ASIF JAWED</h1>
-<h3 align="center">A Passionate Backend Engineer from India 🚀</h3>
+# Hi 👋, I'm MD ASIF JAWED
+### A Passionate Backend Engineer from India 🚀
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=mdasifj625&color=blue&style=flat-square&label=Profile+Views" alt="profile-views" />
 </p>
 
-### 👨‍💻 About Me:
+---
 
-- 🔭 Currently working on **Gaming Projects**
-- 🌱 Learning **Rust** for fast and scalable backend development
-- 💬 Ask me about **Node.js, Backend Architecture, and APIs**
-- 📫 How to reach me: **[mdasifj625@gmail.com](mailto:mdasifj625@gmail.com)**
-- 📄 My professional experiences: **[LinkedIn Profile](https://www.linkedin.com/in/mdasifj625/)**
+### 👨‍💻 About Me  
+
+- 🔭 **Currently Working On**: Exciting **Gaming Projects**  
+- 🌱 **Learning**: Exploring **Rust** to enhance backend performance and scalability  
+- 💬 **Ask Me About**: **Node.js**, backend architecture, and API design  
+- 📫 **How to Reach Me**: [**Email Me**](mailto:mdasifj625@gmail.com)  
+- 📄 **Know More About My Work**: [**LinkedIn Profile**](https://www.linkedin.com/in/mdasifj625/)
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me  
 
 <p align="center">
 	<a href="https://twitter.com/mdasifj625" target="_blank">
@@ -31,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack  
 
 <p align="center">
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,16 +41,16 @@
 	<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 	<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 	<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-	<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 	<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 	<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 	<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+	<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 	<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats  
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mdasifj625&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -58,7 +60,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies  
 
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=mdasifj625&theme=radical" alt="Trophies" />
@@ -66,6 +68,6 @@
 
 ---
 
-### 🌟 Fun Fact:
+### 🌟 Fun Fact  
 
 _"Debugging is like being the detective in a crime movie where you are also the murderer."_
