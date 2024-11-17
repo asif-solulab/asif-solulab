@@ -13,7 +13,7 @@
 - 🌱 **Learning**: Exploring **Rust** to enhance backend performance and scalability  
 - 💬 **Ask Me About**: **Node.js**, backend architecture, and API design  
 - 📫 **How to Reach Me**: [**Email Me**](mailto:mdasifj625@gmail.com)  
-- 📄 **Know More About My Work**: [**LinkedIn Profile**](https://www.linkedin.com/in/mdasifj625/)
+- 📄 **Know More About My Work**: [**LinkedIn Profile**](https://www.linkedin.com/in/mdasifj625/) [**Resume**](https://docs.google.com/document/d/1pWiArhXJFEY3VylbThUG02WyxnUWEykDv6tvDpeb19g/edit?usp=sharing)
 
 ---
 
