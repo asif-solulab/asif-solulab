@@ -7,8 +7,8 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 Currently working on **Web3 Projects**
-- 🌱 Learning **GraphQL, TypeScript** for scalable backend development
+- 🔭 Currently working on **Gaming Projects**
+- 🌱 Learning **Rust** for fast and scalable backend development
 - 💬 Ask me about **Node.js, Backend Architecture, and APIs**
 - 📫 How to reach me: **[mdasifj625@gmail.com](mailto:mdasifj625@gmail.com)**
 - 📄 My professional experiences: **[LinkedIn Profile](https://www.linkedin.com/in/mdasifj625/)**
